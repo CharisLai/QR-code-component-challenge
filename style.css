@@ -8,9 +8,9 @@ body {
 main {
     border: 15px solid rgb(255, 255, 255);
     background-color: rgb(255, 255, 255);
-    width: 10%;
-    height: 40%;
-    margin: 80px auto;
+    width: 20%;
+    height: 55%;
+    margin: 100px auto;
     border-radius: 2.5%;
     max-width: fit-content;
     max-height: fit-content;
@@ -29,11 +29,11 @@ h1, p {
 
 h1 {
     font-weight: bolder;
-    font-size: 0.5rem;
+    font-size: 20px;
     color: hsl(218, 44%, 22%);
 }
 p {
-    font-size: 0.5rem;
+    font-size: 15px;
     color: hsl(220, 15%, 55%);
 }
 }
